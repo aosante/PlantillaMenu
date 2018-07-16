@@ -17,6 +17,7 @@ public class PlantillaMenu {
      * @param args the command line arguments
      */
     
+    //comentario
     static BufferedReader in = new BufferedReader(new InputStreamReader(System.in));
     static PrintStream out = System.out;
     
